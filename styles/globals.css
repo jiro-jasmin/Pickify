@@ -1,0 +1,34 @@
+:root {
+  --black: #191414;
+  --green: #1DB954;
+  --grey: #222326;
+  --light-grey: #808185;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  color: #fff;
+  background: var(--black);
+}
+
+a {
+  color: var(--light-grey);
+  transition: color .3s;
+}
+
+a:hover {
+  color: #fff;
+  transition: color .3s;
+}

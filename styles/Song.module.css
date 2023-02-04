@@ -1,0 +1,27 @@
+@keyframes turning {
+    from {
+        transform: rotate(0);
+    }
+
+    to {
+        transform: rotate(350deg);
+    }
+}
+
+.turning {
+    animation: turning infinite linear 10s;
+    border-radius: 50%;
+}
+
+.notTurning {
+    border-radius: 50%;
+}
+
+.songInfo {
+    margin: .5rem 0;
+    text-align: center;
+}
+
+.songInfo__title {
+    color: var(--light-grey);
+}
