@@ -38,8 +38,8 @@ Download Next.js and the dependencies listed in *package-lock.json*
 ## 🔮 On the future of this project  
   
 Please note that this project will have some improvements in the near future.  
-I have to fix a bug, visible on production, which is the song duration being NaN while loading. 
-As the data is currently stored within the project, I am thinking of linking it to an actual database. Now, if you wish to see Next.js projects linked with an API, please [check my blog](https://github.com/jiro-jasmin/Blog) for instance.  
+I have to fix a bug, visible on production, which is the song duration being NaN while loading.  
+Also, as the data is currently stored within the project, I am thinking of linking it to an actual database. Now, if you wish to see Next.js projects linked with an API, please [check my blog](https://github.com/jiro-jasmin/Blog) for instance.  
 If you have any suggestion or question regarding this project, do not hesitate to let me know! 😊  
 
 [Click here](https://github.com/jiro-jasmin?tab=repositories) to access to all my online repositories.  
